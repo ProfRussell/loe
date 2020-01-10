@@ -1,0 +1,36 @@
+h1, h2 {
+  font-family: "Calisto MT", "Bookman Old Style", sans-serif;
+}
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+ p {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+table, tr, td {
+    border: none;
+}
+
+#target1 {
+  display: block;
+}
+
+#target2 {
+  display: none;
+}
+
+#target3 {
+  display: none;
+}
+
+#target4 {
+  display: block;
+}
+
+#target5 {
+  display: none;
+}
+
+#target6 {
+  display: none;
+}
